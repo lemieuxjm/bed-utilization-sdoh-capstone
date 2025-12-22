@@ -21,7 +21,7 @@ This folder contains the finalized deliverables for the capstone project:
 
 - **Final Report:**  
   'reports/Final_Report.pdf'
-  https://github.com/lemieuxjm-cap/Iota-Capstone/tree/b54e30e85a106960d5a4c6f652c9ad589bc83f79/final_delivery/reports
+  - https://github.com/lemieuxjm-cap/Iota-Capstone/tree/b54e30e85a106960d5a4c6f652c9ad589bc83f79/final_delivery/reports
 
 ## 🛠️ Running the Code
 
